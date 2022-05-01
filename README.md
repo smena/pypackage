@@ -1,2 +1,3 @@
 # pypackage
-Python package skeleton
+
+n python package template repository
